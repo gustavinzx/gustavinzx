@@ -1,4 +1,4 @@
-Opa, Me Chamo Gustavo Silva
+Opaaa!! Prazer, me Chamo Gustavo Silva
 
 - 🌱 Estudando Systems Analysis And Development, Python, Design De Interface/Data Analytics
 - 📫 Contact me at the email address: gustavossantosdev@gmail.com
