@@ -1,6 +1,6 @@
 Opaaa!! Prazer, me Chamo Gustavo Silva
 
-- 🌱 Estudando Systems Analysis And Development, Python, Design De Interface/Data Analytics
+- 🌱 Estudando Systems Analysis And Development Front-End, Python, SQL, Java, JavaScript, SQL
 - 📫 Contact me at the email address: gustavossantosdev@gmail.com
 
   <div style="display: inline_block"><br>
