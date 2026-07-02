@@ -31,7 +31,7 @@ Desenvolvedor apaixonado por tecnologia e focado em criar soluções modernas e 
 ### 📈 Minha Atividade no Código
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavinzx&bg_color=0D1117&color=FF4655&line=FF4655&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividades do Gustavo" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavinzx&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividades do Gustavo" width="100%" />
 </div>
 
 ---
