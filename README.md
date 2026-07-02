@@ -28,10 +28,10 @@ Desenvolvedor apaixonado por tecnologia e focado em criar soluções modernas e 
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Minha Atividade no Código
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gustavinzx&theme=dracula&hide_border=true&border_radius=4.5" alt="Estatísticas do GitHub do Gustavo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavinzx&bg_color=0D1117&color=FF4655&line=FF4655&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividades do Gustavo" width="100%" />
 </div>
 
 ---
