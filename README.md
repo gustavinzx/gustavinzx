@@ -28,12 +28,7 @@ Desenvolvedor apaixonado por tecnologia e focado em criar soluções modernas e 
 
 ---
 
-### 📈 Minha Atividade no Código
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=gustavinzx&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=FFFFFF&hide_border=true" alt="Gráfico de Atividades do Gustavo" width="100%" />
-</div>
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-silva-73789a303/" target="_blank">
